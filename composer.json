@@ -27,7 +27,7 @@
 			"App\\": "app/",
 			"Database\\Factories\\": "database/factories/"
 		}
-	},,
+	},
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/"
