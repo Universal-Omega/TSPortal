@@ -11,7 +11,7 @@
       "groupSlug": "all-deps"
     },
     {
-      "matchManagers": ["composer"],
+      "matchManagers": [ "composer" ],
       "rangeStrategy": "replace"
     }
   ],
