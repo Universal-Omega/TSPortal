@@ -34,4 +34,5 @@ jobs:
         DB_DATABASE: database/database.sqlite
       run: |
         php artisan make:test UserTest
+        cat tests/Feature/UserTest.php
         php artisan test
